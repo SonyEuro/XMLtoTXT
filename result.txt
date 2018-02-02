@@ -1,0 +1,10 @@
+Students
+
+student math
+course vasya	mark 2
+course masha	mark 5
+
+student AI
+course vasya	mark 5
+course masha	mark 2
+
