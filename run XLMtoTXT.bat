@@ -1,1 +1,1 @@
-go run XLMtoTXT.go
+go run XLMtoTXT.go Courses

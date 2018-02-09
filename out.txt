@@ -1,9 +1,0 @@
-Students
-
-student vasya
-course math	mark 2
-course AI	mark 5
-
-student masha
-course math	mark 5
-course AI	mark 2
